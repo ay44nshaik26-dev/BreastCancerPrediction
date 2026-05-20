@@ -16,7 +16,7 @@ st.error(
 )
 
 st.title(
-    "Breast Cancer Predicting Machine"
+    "Ayaan's Breast Cancer Predicting Machine"
 )
 
 st.caption(
